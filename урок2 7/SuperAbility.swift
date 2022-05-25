@@ -1,0 +1,4 @@
+protocol SuperAbility {
+    
+    func changeDamage()
+}
